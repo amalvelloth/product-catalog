@@ -1,0 +1,52 @@
+[
+    {
+      "name": "Accer",
+      "description": "Accer nitro laptop",
+      "image": "images/laptop.jpg",
+      "price": 100000,
+      "category": "Electronic"
+    },
+    {
+      "name": "Adidas",
+      "description": "Adidas Black T-shirt",
+      "image": "images/shirt.jpg",
+      "price": 1500,
+      "category": "Clothing"
+    },
+    {
+      "name": "Nike",
+      "description": "Nike self lacing shoes",
+      "image": "images/shoes.jpg",
+      "price": 2000,
+      "category": "Footwear"
+    },
+    {
+      "name": "Nike",
+      "description": "Nike running shoes",
+      "image": "images/nike.jpeg",
+      "price": 2500,
+      "category": "Footwear"
+    },
+    {
+      "name": "Samsung",
+      "description": "Samsung s24 ultra",
+      "image": "images/smartphone.jpg",
+      "price": 115000,
+      "category": "Mobile"
+    },
+    {
+      "name": "Apple",
+      "description": "iPhone 16 pro max",
+      "image": "images/iPhone.jpg",
+      "price": 125000,
+      "category": "Mobile"
+    },
+    {
+      "name": "Samsung",
+      "description": "Samsung 4k 43' smart tv",
+      "image": "images/samsung-tv.jpeg",
+      "price": 115000,
+      "category": "Electronic"
+    }
+  ]
+  
